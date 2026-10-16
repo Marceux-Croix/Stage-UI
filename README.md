@@ -1,3 +1,5 @@
+![Stage UI: a design system for apps built around one big canvas](docs/images/social-preview.png)
+
 # Stage UI
 
 **A design system for apps built around one big canvas.**
